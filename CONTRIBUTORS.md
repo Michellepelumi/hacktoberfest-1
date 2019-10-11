@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [michellepelumi](https://github.com/michellepelumi)
+- Place: lagos, nigeria
+- Bio: petroleum and gas engineering student
+- Github: [michellepelumi](https://github.com/michellepelumi)
